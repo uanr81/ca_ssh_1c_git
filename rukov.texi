@@ -1,0 +1,12 @@
+\input texinfo
+@setfilename ./SSH.info
+@documentencoding UTF-8
+@settitle Руководство Контроль Доступа SSHD
+@node Top, SSH, (dir), (dir)
+@top Руководство Контроль Доступа SSHD верхний узел
+@ifinfo
+@heading Руководство Контроль Доступа SSHD верхний узел
+@end ifinfo
+@include nashNastrDemona.texi
+
+@bye
